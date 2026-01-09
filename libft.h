@@ -12,10 +12,11 @@
 #ifndef LIBFT_H
 # define LIBFT_H
 
-# include <string.h>
-# include <ctype.h>
 # include <stdlib.h>
 # include <unistd.h>
+# include <stddef.h>
+# include <string.h>
+# include <ctype.h>
 
 typedef struct s_list
 {
